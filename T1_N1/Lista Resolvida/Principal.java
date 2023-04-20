@@ -1,21 +1,28 @@
 package br.edu.principal;
-
 import java.util.Scanner;
-
 public class Principal {
 
 	public static void main(String[] args) {
-		// Programa que mostra a parte inteira, fracionária e arredondada de um número
-		Scanner sc = new Scanner(System.in);
-		
-		System.out.println("Insira um número real:");
-		
-		double num = sc.nextDouble();
-		double i = Math.floor(num);
-		double f = num - i;
-		double a = Math.round(num);
-		
-		System.out.println("Parte inteira do número: " + i);
-		System.out.println("Parte fracionaria do número: " + f);
-		System.out.println("Parte arredondada do número digitado é: " + a); }
+		// TODO Auto-generated method stub
+	    // Código que recebe quatro numeros digitados e soma todos eles
+				Scanner sc = new Scanner(System.in);
+				int n1;
+				int n2;
+				int n3;
+				int n4;
+				System.out.println("Digite o primeiro número número: ");
+				n1 = sc.nextInt();
+				
+				System.out.println("Digite o segundo número: ");
+				n2 = sc.nextInt();
+				
+				System.out.println("Digite o terceiro número: ");
+				n3 = sc.nextInt();
+				
+				System.out.println("Digite o quarto número: ");
+				n4 = sc.nextInt();
+				
+				System.out.println("A soma dos quatro números é igual a: "+(n1+n2+n3+n4));
+			}
 	}
+
