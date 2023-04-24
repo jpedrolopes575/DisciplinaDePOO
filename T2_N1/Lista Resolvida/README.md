@@ -13,7 +13,8 @@ Escriturário - Secretário - Caixa - Gerente - Diretor
 PERCENTUAL
 50% - 35% - 20% - 10%
 Não tem aumento |
-| **20.**   | Faça um programa que receba:
+| **20.**   | 
+Faça um programa que receba:
 ♦ o código de um produto comprado, supondo que a digitação do código do produto seja sempre válida, ou seja, um número inteiro entre 1 e 10;
 ♦ o peso do produto em quilos:
 ♦ o código do país de origem, supondo que a digitação do código do país seja sempre válida, ou seja, um número inteiro                     entre 1 e 3.
