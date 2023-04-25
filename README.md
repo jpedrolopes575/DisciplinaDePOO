@@ -1,4 +1,4 @@
-# TrabalhoPOO---T3N1
+# TrabalhoPOO
 > Lista de exercício em Java para a disciplina de Programação Orientada à Objetos. Feita no programa Eclipse.
  
 **Nome completo:** João Pedro Lopes Machado
